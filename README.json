@@ -701,7 +701,7 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-22T15:05:11Z",
+                "last_commit": "2026-08-24T15:05:07Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5260
@@ -819,7 +819,7 @@
                 "archived": false,
                 "id": 108102826,
                 "language": "C++",
-                "last_commit": "2026-08-24T13:49:39Z",
+                "last_commit": "2026-08-24T15:57:19Z",
                 "owner": "carla-simulator",
                 "repo": "carla",
                 "stars": 14317
@@ -952,7 +952,7 @@
                 "archived": false,
                 "id": 108102826,
                 "language": "C++",
-                "last_commit": "2026-08-24T13:49:39Z",
+                "last_commit": "2026-08-24T15:57:19Z",
                 "owner": "carla-simulator",
                 "repo": "carla",
                 "stars": 14317
@@ -1171,7 +1171,7 @@
                 "archived": false,
                 "id": 10744183,
                 "language": "Go",
-                "last_commit": "2026-08-24T13:50:26Z",
+                "last_commit": "2026-08-24T15:51:41Z",
                 "owner": "netdata",
                 "repo": "netdata",
                 "stars": 80276
@@ -1247,7 +1247,7 @@
                 "last_commit": "2026-08-20T10:37:54Z",
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10292
+                "stars": 10291
               }
             },
             {
@@ -1304,7 +1304,7 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-22T15:05:11Z",
+                "last_commit": "2026-08-24T15:05:07Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5260
@@ -1563,7 +1563,7 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38446
+                "stars": 38447
               }
             },
             {
@@ -1708,7 +1708,7 @@
                 "archived": false,
                 "id": 32051890,
                 "language": "C#",
-                "last_commit": "2026-08-24T13:40:39Z",
+                "last_commit": "2026-08-24T15:33:30Z",
                 "owner": "dotnet",
                 "repo": "msbuild",
                 "stars": 5542
@@ -1833,7 +1833,7 @@
                 "archived": false,
                 "id": 42408804,
                 "language": "Go",
-                "last_commit": "2026-08-24T14:40:13Z",
+                "last_commit": "2026-08-24T15:30:07Z",
                 "owner": "traefik",
                 "repo": "traefik",
                 "stars": 64562
@@ -1848,7 +1848,7 @@
                 "archived": false,
                 "id": 72495579,
                 "language": "Go",
-                "last_commit": "2026-08-24T11:37:20Z",
+                "last_commit": "2026-08-24T15:49:16Z",
                 "owner": "go-gitea",
                 "repo": "gitea",
                 "stars": 57570
@@ -1896,7 +1896,7 @@
                 "last_commit": "2026-08-21T18:13:10Z",
                 "owner": "gravitational",
                 "repo": "teleport",
-                "stars": 20842
+                "stars": 20843
               }
             },
             {
@@ -2264,7 +2264,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:43:38.463Z",
+    "last_updated": "2026-08-24T16:06:22.717Z",
     "original_repository": "mikeroyal/Apache-Kafka-Guide",
     "original_repository_id": 415688734,
     "original_repository_sha": "7205af7edabea9b6d4f07b44a729e33692f5e8ed",
