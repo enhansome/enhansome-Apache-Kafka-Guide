@@ -117,7 +117,7 @@
             "open_issues": 521,
             "owner": "yahoo",
             "repo": "CMAK",
-            "stars": 11920,
+            "stars": 11916,
             "topics": [
               "big-data",
               "cluster-management",
@@ -225,8 +225,8 @@
             "id": 100402355,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T20:36:04Z",
-            "open_issues": 280,
+            "last_commit": "2026-10-09T19:27:59Z",
+            "open_issues": 282,
             "owner": "cruise-control-for-kafka",
             "repo": "cruise-control",
             "stars": 3046,
@@ -254,7 +254,7 @@
             "open_issues": 253,
             "owner": "linkedin",
             "repo": "Burrow",
-            "stars": 3967,
+            "stars": 3965,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.511Z"
@@ -317,7 +317,7 @@
             "open_issues": 108,
             "owner": "databricks",
             "repo": "koalas",
-            "stars": 3371,
+            "stars": 3372,
             "topics": [
               "big-data",
               "data-science",
@@ -346,7 +346,7 @@
             "open_issues": 521,
             "owner": "yahoo",
             "repo": "CMAK",
-            "stars": 11920,
+            "stars": 11916,
             "topics": [
               "big-data",
               "cluster-management",
@@ -372,7 +372,7 @@
             "open_issues": 265,
             "owner": "plaidml",
             "repo": "plaidml",
-            "stars": 4566,
+            "stars": 4565,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.511Z"
@@ -393,7 +393,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34549,
+            "stars": 34551,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -418,7 +418,7 @@
             "open_issues": 699,
             "owner": "Theano",
             "repo": "Theano",
-            "stars": 10008,
+            "stars": 10007,
             "topics": []
           },
           "first_seen": "2026-08-29T00:04:51.511Z"
@@ -447,7 +447,7 @@
                 "open_issues": 216,
                 "owner": "apple",
                 "repo": "tensorflow_macos",
-                "stars": 3643,
+                "stars": 3642,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:51.511Z"
@@ -468,7 +468,7 @@
                 "open_issues": 265,
                 "owner": "plaidml",
                 "repo": "plaidml",
-                "stars": 4566,
+                "stars": 4565,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:51.511Z"
@@ -489,7 +489,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34549,
+                "stars": 34551,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -514,7 +514,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10008,
+                "stars": 10007,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:51.511Z"
@@ -590,7 +590,7 @@
                 "open_issues": 521,
                 "owner": "yahoo",
                 "repo": "CMAK",
-                "stars": 11920,
+                "stars": 11916,
                 "topics": [
                   "big-data",
                   "cluster-management",
@@ -633,11 +633,11 @@
                 "id": 3659275,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-08T17:42:56Z",
+                "last_commit": "2026-10-09T08:21:54Z",
                 "open_issues": 1822,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11172,
+                "stars": 11176,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -662,8 +662,8 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T20:09:10Z",
-                "open_issues": 805,
+                "last_commit": "2026-10-09T19:25:24Z",
+                "open_issues": 804,
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5302,
@@ -727,7 +727,7 @@
                 "open_issues": 521,
                 "owner": "yahoo",
                 "repo": "CMAK",
-                "stars": 11920,
+                "stars": 11916,
                 "topics": [
                   "big-data",
                   "cluster-management",
@@ -753,7 +753,7 @@
                 "open_issues": 216,
                 "owner": "apple",
                 "repo": "tensorflow_macos",
-                "stars": 3643,
+                "stars": 3642,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:51.511Z"
@@ -774,7 +774,7 @@
                 "open_issues": 265,
                 "owner": "plaidml",
                 "repo": "plaidml",
-                "stars": 4566,
+                "stars": 4565,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:51.511Z"
@@ -795,7 +795,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34549,
+                "stars": 34551,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -820,7 +820,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10008,
+                "stars": 10007,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:51.511Z"
@@ -837,11 +837,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-08T17:20:29Z",
-                "open_issues": 1190,
+                "last_commit": "2026-10-09T19:18:32Z",
+                "open_issues": 1199,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14465,
+                "stars": 14468,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -935,7 +935,7 @@
                 "open_issues": 521,
                 "owner": "yahoo",
                 "repo": "CMAK",
-                "stars": 11920,
+                "stars": 11916,
                 "topics": [
                   "big-data",
                   "cluster-management",
@@ -961,7 +961,7 @@
                 "open_issues": 216,
                 "owner": "apple",
                 "repo": "tensorflow_macos",
-                "stars": 3643,
+                "stars": 3642,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:51.511Z"
@@ -982,7 +982,7 @@
                 "open_issues": 265,
                 "owner": "plaidml",
                 "repo": "plaidml",
-                "stars": 4566,
+                "stars": 4565,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:51.511Z"
@@ -1003,7 +1003,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34549,
+                "stars": 34551,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -1028,7 +1028,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10008,
+                "stars": 10007,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:51.511Z"
@@ -1045,11 +1045,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-08T17:20:29Z",
-                "open_issues": 1190,
+                "last_commit": "2026-10-09T19:18:32Z",
+                "open_issues": 1199,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14465,
+                "stars": 14468,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1194,7 +1194,7 @@
                 "open_issues": 33,
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14390,
+                "stars": 14389,
                 "topics": [
                   "machine-learning",
                   "named-entity-recognition",
@@ -1224,7 +1224,7 @@
                 "open_issues": 51,
                 "owner": "curiosity-ai",
                 "repo": "catalyst",
-                "stars": 859,
+                "stars": 860,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1254,7 +1254,7 @@
                 "open_issues": 216,
                 "owner": "apple",
                 "repo": "tensorflow_macos",
-                "stars": 3643,
+                "stars": 3642,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:51.511Z"
@@ -1275,7 +1275,7 @@
                 "open_issues": 265,
                 "owner": "plaidml",
                 "repo": "plaidml",
-                "stars": 4566,
+                "stars": 4565,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:51.511Z"
@@ -1296,7 +1296,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34549,
+                "stars": 34551,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -1321,7 +1321,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10008,
+                "stars": 10007,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:51.511Z"
@@ -1359,11 +1359,11 @@
                 "id": 3659275,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-08T17:42:56Z",
+                "last_commit": "2026-10-09T08:21:54Z",
                 "open_issues": 1822,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11172,
+                "stars": 11176,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -1401,11 +1401,11 @@
                 "id": 10744183,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-08T19:51:31Z",
-                "open_issues": 421,
+                "last_commit": "2026-10-09T11:25:26Z",
+                "open_issues": 436,
                 "owner": "netdata",
                 "repo": "netdata",
-                "stars": 80845,
+                "stars": 80857,
                 "topics": [
                   "ai",
                   "alerting",
@@ -1511,7 +1511,7 @@
                 "open_issues": 0,
                 "owner": "NVIDIA",
                 "repo": "nvidia-docker",
-                "stars": 17602,
+                "stars": 17603,
                 "topics": [
                   "cuda",
                   "docker",
@@ -1537,7 +1537,7 @@
                 "open_issues": 780,
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10546,
+                "stars": 10548,
                 "topics": [
                   "cpp",
                   "cuda",
@@ -1566,7 +1566,7 @@
                 "open_issues": 7,
                 "owner": "NVIDIA",
                 "repo": "cub",
-                "stars": 1845,
+                "stars": 1844,
                 "topics": [
                   "algorithms",
                   "cpp",
@@ -1621,11 +1621,11 @@
                 "id": 3659275,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-08T17:42:56Z",
+                "last_commit": "2026-10-09T08:21:54Z",
                 "open_issues": 1822,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11172,
+                "stars": 11176,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -1650,8 +1650,8 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T20:09:10Z",
-                "open_issues": 805,
+                "last_commit": "2026-10-09T19:25:24Z",
+                "open_issues": 804,
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5302,
@@ -1720,7 +1720,7 @@
                 "open_issues": 43,
                 "owner": "mp3guy",
                 "repo": "Kintinuous",
-                "stars": 954,
+                "stars": 953,
                 "topics": [
                   "cuda",
                   "reconstruction",
@@ -1861,7 +1861,7 @@
                 "open_issues": 137,
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94767,
+                "stars": 94769,
                 "topics": [
                   "awesome-list",
                   "design-patterns",
@@ -1891,7 +1891,7 @@
                 "open_issues": 11,
                 "owner": "ReactiveX",
                 "repo": "RxJava",
-                "stars": 48190,
+                "stars": 48216,
                 "topics": [
                   "flow",
                   "java",
@@ -1913,11 +1913,11 @@
                 "id": 20300177,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T16:49:15Z",
-                "open_issues": 750,
+                "last_commit": "2026-10-09T19:58:42Z",
+                "open_issues": 751,
                 "owner": "google",
                 "repo": "guava",
-                "stars": 51924,
+                "stars": 51921,
                 "topics": [
                   "guava",
                   "java"
@@ -1941,7 +1941,7 @@
                 "open_issues": 2112,
                 "owner": "alibaba",
                 "repo": "fastjson",
-                "stars": 25582,
+                "stars": 25583,
                 "topics": [
                   "android",
                   "best-performance",
@@ -2012,8 +2012,8 @@
                 "id": 265902625,
                 "language": "Python",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-10-07T21:59:24Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-09T19:00:31Z",
+                "open_issues": 30,
                 "owner": "microsoft",
                 "repo": "pylance-release",
                 "stars": 2129,
@@ -2038,11 +2038,11 @@
                 "id": 175129788,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-08T20:45:56Z",
-                "open_issues": 338,
+                "last_commit": "2026-10-09T16:42:17Z",
+                "open_issues": 339,
                 "owner": "microsoft",
                 "repo": "pyright",
-                "stars": 15679,
+                "stars": 15680,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:51.511Z"
@@ -2063,7 +2063,7 @@
                 "open_issues": 500,
                 "owner": "aws",
                 "repo": "chalice",
-                "stars": 11055,
+                "stars": 11056,
                 "topics": [
                   "aws",
                   "aws-apigateway",
@@ -2092,10 +2092,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2024-12-17T17:30:35Z",
-                "open_issues": 344,
+                "open_issues": 345,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38743,
+                "stars": 38752,
                 "topics": [
                   "api",
                   "api-client",
@@ -2133,8 +2133,8 @@
                 "id": 79510167,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-08T20:39:02Z",
-                "open_issues": 14,
+                "last_commit": "2026-10-09T15:16:47Z",
+                "open_issues": 11,
                 "owner": "pypa",
                 "repo": "pipenv",
                 "stars": 25025,
@@ -2161,10 +2161,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-07-01T08:19:02Z",
-                "open_issues": 205,
+                "open_issues": 206,
                 "owner": "google",
                 "repo": "python-fire",
-                "stars": 28225,
+                "stars": 28224,
                 "topics": [
                   "cli",
                   "python"
@@ -2185,10 +2185,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-18T09:07:00Z",
-                "open_issues": 289,
+                "open_issues": 290,
                 "owner": "bottlepy",
                 "repo": "bottle",
-                "stars": 8792,
+                "stars": 8791,
                 "topics": [
                   "bottle",
                   "python",
@@ -2212,10 +2212,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-07-29T03:09:51Z",
-                "open_issues": 157,
+                "open_issues": 156,
                 "owner": "sanic-org",
                 "repo": "sanic",
-                "stars": 18638,
+                "stars": 18637,
                 "topics": [
                   "api-server",
                   "asgi",
@@ -2246,7 +2246,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14366,
+                "stars": 14367,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -2285,7 +2285,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-07T14:02:55Z",
-                "open_issues": 182,
+                "open_issues": 183,
                 "owner": "spotify",
                 "repo": "luigi",
                 "stars": 18783,
@@ -2311,11 +2311,11 @@
                 "id": 1377867,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-04T20:46:09Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-08T21:20:33Z",
+                "open_issues": 7,
                 "owner": "locustio",
                 "repo": "locust",
-                "stars": 28200,
+                "stars": 28197,
                 "topics": [
                   "benchmarking",
                   "http",
@@ -2345,10 +2345,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-30T08:13:41Z",
-                "open_issues": 248,
+                "open_issues": 249,
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 33950,
+                "stars": 33949,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -2396,8 +2396,8 @@
                 "id": 32051890,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-08T20:33:09Z",
-                "open_issues": 1770,
+                "last_commit": "2026-10-09T20:15:57Z",
+                "open_issues": 1768,
                 "owner": "dotnet",
                 "repo": "msbuild",
                 "stars": 5552,
@@ -2428,7 +2428,7 @@
                 "open_issues": 0,
                 "owner": "microsoft",
                 "repo": "botframework-sdk",
-                "stars": 7805,
+                "stars": 7804,
                 "topics": [
                   "azure-bot-service",
                   "bot",
@@ -2525,7 +2525,7 @@
                 "open_issues": 22,
                 "owner": "Azure",
                 "repo": "autorest",
-                "stars": 4795,
+                "stars": 4794,
                 "topics": [
                   "azure",
                   "code-generator",
@@ -2635,10 +2635,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-08T07:58:26Z",
-                "open_issues": 942,
+                "open_issues": 947,
                 "owner": "traefik",
                 "repo": "traefik",
-                "stars": 65102,
+                "stars": 65119,
                 "topics": [
                   "consul",
                   "docker",
@@ -2670,11 +2670,11 @@
                 "id": 72495579,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-08T18:57:06Z",
-                "open_issues": 2433,
+                "last_commit": "2026-10-09T19:37:42Z",
+                "open_issues": 2307,
                 "owner": "go-gitea",
                 "repo": "gitea",
-                "stars": 58368,
+                "stars": 58386,
                 "topics": [
                   "bitbucket",
                   "cicd",
@@ -2716,7 +2716,7 @@
                 "open_issues": 31,
                 "owner": "openfaas",
                 "repo": "faas",
-                "stars": 26247,
+                "stars": 26242,
                 "topics": [
                   "docker",
                   "faas",
@@ -2748,11 +2748,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-08T00:37:27Z",
-                "open_issues": 918,
+                "last_commit": "2026-10-09T00:38:07Z",
+                "open_issues": 919,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29679,
+                "stars": 29684,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -2779,10 +2779,10 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-17T15:49:47Z",
-                "open_issues": 3237,
+                "open_issues": 3235,
                 "owner": "gravitational",
                 "repo": "teleport",
-                "stars": 20968,
+                "stars": 20972,
                 "topics": [
                   "audit",
                   "bastion",
@@ -2821,7 +2821,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-08-09T22:50:11Z",
-                "open_issues": 392,
+                "open_issues": 393,
                 "owner": "nektos",
                 "repo": "act",
                 "stars": 72246,
@@ -2873,10 +2873,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T17:02:26Z",
-                "open_issues": 74,
+                "open_issues": 75,
                 "owner": "dgraph-io",
                 "repo": "badger",
-                "stars": 15781,
+                "stars": 15783,
                 "topics": [
                   "database",
                   "document-database",
@@ -2931,7 +2931,7 @@
                 "open_issues": 305,
                 "owner": "CodisLabs",
                 "repo": "codis",
-                "stars": 13221,
+                "stars": 13219,
                 "topics": [
                   "go",
                   "golang",
@@ -2955,10 +2955,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-16T19:17:34Z",
-                "open_issues": 195,
+                "open_issues": 197,
                 "owner": "uber-go",
                 "repo": "zap",
-                "stars": 24662,
+                "stars": 24663,
                 "topics": [
                   "golang",
                   "logging",
@@ -2984,7 +2984,7 @@
                 "open_issues": 87,
                 "owner": "julienschmidt",
                 "repo": "httprouter",
-                "stars": 17133,
+                "stars": 17130,
                 "topics": [
                   "go",
                   "golang",
@@ -3009,10 +3009,10 @@
                 "language": "Go",
                 "license": "BSD-2-Clause",
                 "last_commit": "2025-03-19T13:29:08Z",
-                "open_issues": 84,
+                "open_issues": 85,
                 "owner": "gorilla",
                 "repo": "websocket",
-                "stars": 24878,
+                "stars": 24873,
                 "topics": [
                   "go",
                   "golang",
@@ -3040,7 +3040,7 @@
                 "open_issues": 80,
                 "owner": "go-delve",
                 "repo": "delve",
-                "stars": 24940,
+                "stars": 24941,
                 "topics": [
                   "debugger",
                   "go",
@@ -3065,7 +3065,7 @@
                 "open_issues": 545,
                 "owner": "go-gorm",
                 "repo": "gorm",
-                "stars": 39982,
+                "stars": 39978,
                 "topics": [
                   "go",
                   "golang",
@@ -3183,7 +3183,7 @@
                 "open_issues": 521,
                 "owner": "yahoo",
                 "repo": "CMAK",
-                "stars": 11920,
+                "stars": 11916,
                 "topics": [
                   "big-data",
                   "cluster-management",
@@ -3205,11 +3205,11 @@
                 "id": 2340549,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T19:47:48Z",
-                "open_issues": 494,
+                "last_commit": "2026-10-09T12:57:38Z",
+                "open_issues": 493,
                 "owner": "playframework",
                 "repo": "playframework",
-                "stars": 12616,
+                "stars": 12617,
                 "topics": [
                   "framework",
                   "hacktoberfest",
@@ -3238,11 +3238,11 @@
                 "id": 7035651,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T14:01:55Z",
-                "open_issues": 1812,
+                "last_commit": "2026-10-09T15:02:45Z",
+                "open_issues": 1810,
                 "owner": "scala",
                 "repo": "scala3",
-                "stars": 6312,
+                "stars": 6310,
                 "topics": [
                   "compiler",
                   "dotty",
@@ -3385,7 +3385,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T20:47:37.844Z",
+    "last_updated": "2026-10-09T20:18:05.962Z",
     "original_repository_info": {
       "archived": false,
       "description": "Apache Kafka Guide",
